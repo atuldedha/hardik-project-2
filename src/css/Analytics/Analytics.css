@@ -1,0 +1,22 @@
+.analyticsArrowDown {
+  height: 12px;
+  width: 18px;
+  object-fit: contain;
+}
+
+.arrowIcon {
+  height: 14px;
+  width: 18px;
+  object-fit: contain;
+}
+
+.analyticsModalDropdown {
+  border: none;
+  outline: none;
+  background: inherit;
+  cursor: pointer;
+}
+
+.chartjs-render-monitor {
+  width: 100% !important;
+}
